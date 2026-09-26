@@ -1,1 +1,0 @@
-# Python-mysql-k8s-project
